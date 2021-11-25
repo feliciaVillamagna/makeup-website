@@ -26,6 +26,11 @@ h2{
 
 }
 
+.price-image{
+    width: 600px;
+
+}
+
 .makeup-company{
     background-image: linear-gradient(purple, violet);
 }
