@@ -17,15 +17,7 @@ h2{
     font-size: 65px;
 }
 
- .bull-image{
-     width: 900px;
- }
-     
-.list-image{
-    width: 600px;
-
-}
-
+ 
 .price-image{
     width: 600px;
 
@@ -35,3 +27,6 @@ h2{
     background-image: linear-gradient(purple, violet);
 }
 
+.wagen-image{
+    width: 100px;
+}
