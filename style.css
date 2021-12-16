@@ -36,10 +36,30 @@ h2{
 }
 
 .sofia-image{
-    width:600px;
+    widows: 100px;;
 }
 
 .palette-image{
-    width: 600;
+    width:300px;
 }
 
+.skin-pruduct{
+background: lightskyblue ;
+}
+
+.a-image{
+    width: 1000px;
+}
+.b-image{
+    width: 1000px;
+}
+.c-image{
+    width: 1000px;
+}
+.d-image{
+    width: 1000px;
+}
+
+h6{
+    color: black;
+}
